@@ -4,10 +4,21 @@ Utilities
 This section shows general objects and helper functions that are used with this package.
 
 
-.. note::
-    This BalderHub project doesn't have any utilities.
 
+.. autoclass:: balderhub.http.lib.utils.HttpRequestMessage
+    :members:
 
-.. todo add your scenarios with .. autoclass
-    .. autoclass:: balderhub.http.lib.utilities.MyExampleUtility
-        :members:
+.. autoclass:: balderhub.http.lib.utils.Response
+    :members:
+
+Enums
+=====
+
+.. autoclass:: balderhub.http.lib.utils.HttpMethod
+    :members:
+
+Further functions
+=================
+
+.. autofunction:: balderhub.http.lib.utils.functions.convert_requests_response
+
