@@ -1,10 +1,12 @@
 alabaster==0.7.16
 astroid==3.3.8
 babel==2.18.0
+balderhub-auth==0.0.1b3
+balderhub-data==0.0.1b7
 balderhub-unit==0.0.1b0
 balderhub-url==0.0.1b0
 balderplugin-junit==0.0.3
-baldertest==0.2.0
+baldertest==0.2.3
 certifi==2026.2.25
 charset-normalizer==3.4.7
 dill==0.4.1
