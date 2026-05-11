@@ -5,6 +5,10 @@ This package provides a feature to interact by a session-based web session. It a
 implementation with :class:`balderhub.http.lib.setup_features.client.WebSessionWithRequestsFeature` using the
 `python requests package <https://github.com/psf/requests>`_.
 
+.. note::
+    If you want to implement permission / authentification tests, have a look into the
+    `contrib section of this documentation <Contrib for \`\`balderhub-auth\`\`>`_.
+
 Creating universal Scenarios
 ============================
 

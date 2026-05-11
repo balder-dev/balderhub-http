@@ -19,4 +19,5 @@ out the `official documentation <https://docs.balder.dev>`_ first.
    scenarios.rst
    features.rst
    examples.rst
+   contrib.rst
    utilities.rst
